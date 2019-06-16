@@ -1,0 +1,5 @@
+{
+    "plugins": ["css-modules-transform"],
+    
+    "presets": ["@babel/env", "@babel/react"],
+}
